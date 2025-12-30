@@ -79,6 +79,12 @@ public class StringConcept {
 
         // Split the string into words
         String[] words = companyName.split(" ");
+        
+        String name = "Rajesh";
+        
+        char[] l = name.toCharArray();
+        
+        System.out.println("Printing the index 2: " + l[2]);
 
         // Count number of words
         System.out.println("Word count: " + words.length);
