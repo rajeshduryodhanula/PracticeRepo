@@ -1,4 +1,4 @@
-package com.arrays.javapractice;
+package com.string.practice;
 
 public class StringArrayConversionDemo {
 
